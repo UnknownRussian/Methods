@@ -93,7 +93,8 @@ namespace ConsoleApp
             }
         }
 
-        private static string Opg1() => "Hello World";
+        private static string Opg1() => "Hello World"; // <-- Shit here!
+        private static string opg1 = "Hello World!"; // <-- Same shit!
 
         private static void Opg2()
         {
