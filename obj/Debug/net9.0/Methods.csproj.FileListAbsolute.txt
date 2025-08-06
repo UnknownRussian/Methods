@@ -1,0 +1,14 @@
+C:\My Projects\Skole\Methods\bin\Debug\net9.0\Methods.exe
+C:\My Projects\Skole\Methods\bin\Debug\net9.0\Methods.deps.json
+C:\My Projects\Skole\Methods\bin\Debug\net9.0\Methods.runtimeconfig.json
+C:\My Projects\Skole\Methods\bin\Debug\net9.0\Methods.dll
+C:\My Projects\Skole\Methods\bin\Debug\net9.0\Methods.pdb
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\Methods.AssemblyInfoInputs.cache
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\Methods.AssemblyInfo.cs
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\Methods.csproj.CoreCompileInputs.cache
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\Methods.dll
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\refint\Methods.dll
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\Methods.pdb
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\Methods.genruntimeconfig.cache
+C:\My Projects\Skole\Methods\obj\Debug\net9.0\ref\Methods.dll
